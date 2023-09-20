@@ -1,5 +1,6 @@
 # Rayzen-iGPU-B450-hackintosh
 OpenCore EFI for B450 Chipset Motherboard with AMD Ryzen 6 cores with iGPU
+
 WARNING ⚠️: I  do not responsible for lost personal data, or malfunction hard drive. **You are doing this at your own RISK.**
 |  Components             |         Requirements                |            Note                      |
 |-------------------------|-------------------------------------|--------------------------------------|
