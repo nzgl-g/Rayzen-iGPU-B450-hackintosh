@@ -11,6 +11,18 @@ WARNING ⚠️: I  do not responsible for lost personal data, or malfunction har
 | Audio     | Realtek ALC892 | |
 | OS | macOS Ventura 13.5 | |
 
+## Settings to change
+
+|BIOS Settings|Toggle|
+|-------------------------|-------------------------------------|
+|Secure Boot|**OFF**|
+|TPM|**OFF** (optional)|
+|Above 4G Decoding|**ON**|
+|VRAM for iGPU|Above 512M for best results|
+|Fast Boot|**OFF**|
+|CSM|**OFF**|
+|Serial Port|**OFF**|
+
 ## Whats Work?
 
 - CPU Power Management
