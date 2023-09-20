@@ -7,6 +7,9 @@ WARNING ⚠️: I  do not responsible for lost personal data, or malfunction har
 | GPU                     |  AMD Vegas iGPU        | Thanks to NootedRed to get AMD iGPU support on this Hackintosh! Make sure that you don't have a dGPU in your system! |
 | Motherboard             | B450 motherboards            |  This build will only work for the B450 motherboards, for other, please refer to the OpenCore Guide.|
 | RAM                     | 2 x 16GB + 8GB DDR4 3200Mhz  |  |
+| Ethernet  | Realtek RTL8111 Gigabit Ethernet |  |
+| Audio     | Realtek ALC892 | |
+| OS | macOS Ventura 13.5 | |
 
 ## Whats Work?
 
