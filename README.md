@@ -34,3 +34,14 @@ WARNING ⚠️: I  do not responsible for lost personal data, or malfunction har
 - Audio (Rear & Front)
 - TRIM Support for SSD
 - Etc
+
+## Tutorial
+- From Zero Tutorial : https://dortania.github.io/OpenCore-Install-Guide/
+- Creating the USB Installer : https://dortania.github.io/OpenCore-Install-Guide/installer-guide/
+- Generating SMBIOS : https://github.com/corpnewt/GenSMBIOS
+- USB Fixes : https://dortania.github.io/OpenCore-Post-Install/usb/ and https://github.com/usbtoolbox/tool
+
+Tutorial on "USB Fixes" related to the UTBMap.kext and SSDT-SLEEP.aml files. Please pay close attention to the guidelines that have been provided.
+
+## Remark
+- i have Asus TUF gaming B450 pro II , so please note that some usb ports won't work for u, if they didn't delete the USBMap.kext and use a compatible one for ure MB by using USBToolBox.
