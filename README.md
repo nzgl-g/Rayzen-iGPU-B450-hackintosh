@@ -45,3 +45,4 @@ Tutorial on "USB Fixes" related to the UTBMap.kext and SSDT-SLEEP.aml files. Ple
 
 ## Remark
 - i have Asus TUF gaming B450 pro II , so please note that some usb ports won't work for u, if they didn't delete the USBMap.kext and use a compatible one for ure MB by using USBToolBox.
+- when the bootloader crash while the instalation please remove the nootedred.kext and save it anywhere and reolace it with whatevergreen.kext, when the instalation is done return everything to its place.(the nootedred.kext is used for making the igpu compatible whith macos sys)
